@@ -1,3 +1,5 @@
 # responsive-sticky-header
 
-https://speckyboy.com/pure-css-responsive-navigation/
+https://dora-the-nightowl.github.io/responsive-sticky-header/
+
+original reference : https://speckyboy.com/pure-css-responsive-navigation/
